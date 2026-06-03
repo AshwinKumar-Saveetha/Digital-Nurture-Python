@@ -5,7 +5,7 @@
 | 1.Introduction to ANSI SQL and MySQL    | What is SQL, ANSI SQL standard, MySQL basics                                | [dwbi](https://www.dwbi.org/pages/30/introduction-to-ansi-sql) |✅ Completed — practiced|
 |    |                                | [w3schools](https://www.w3schools.com/mysql/mysql_intro.asp) |✅ Completed — practiced|
 | 2.Data Retrieval with SELECT Statement  | Basic SELECT, column selection, aliases                                     | [geeksforgeeks](https://www.geeksforgeeks.org/sql-select-statement/) | ✅ Completed — practiced and added screen shots |
-| 3.Filtering and Sorting Data            | WHERE clause, ORDER BY, DISTINCT                                            | [sqlshack](https://www.sqlshack.com/sql-where-clause/) | ⬜ Pending |
+| 3.Filtering and Sorting Data            | WHERE clause, ORDER BY, DISTINCT                                            | [sqlshack](https://www.sqlshack.com/sql-where-clause/) | ✅ Completed — practiced and added screen shots |
 | 4.Aggregate Functions and Grouping      | COUNT, SUM, AVG, MIN, MAX, GROUP BY, HAVING                                 | [w3schools](https://www.w3schools.com/sql/sql_groupby.asp) | ⬜ Pending |
 | 5.Joins and Subqueries                  | INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, nested queries                | [geeksforgeeks](https://www.geeksforgeeks.org/sql-join/) | ⬜ Pending |
 | 6.Data Modification                     | INSERT, UPDATE, DELETE                                                      | [w3schools](https://www.w3schools.com/sql/sql_insert.asp) | ⬜ Pending |
@@ -24,8 +24,23 @@
 
 <img width="469" height="423" alt="image" src="https://github.com/user-attachments/assets/39064928-ddad-4c7f-bd95-c398b8e8b42c" />
 
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/0ed13cef-c74c-4e2b-8a4b-b72a7ca29f58" />
+
 ---
 ### 3.Filtering and Sorting Data
 
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/17180c6a-b0c5-4448-a620-9d4584abfe99" />
 
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/d56a289b-e30c-477b-86e9-30f26e30955c" />
+
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/65c63a6c-fd34-4110-8820-208fca985795" />
+
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/9815b204-2c55-4d2c-89fe-586a4a3ebcee" />
+
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/8ac97b01-a305-45ea-9274-85f4572efcfe" />
+
+<img width="1919" height="1039" alt="image" src="https://github.com/user-attachments/assets/3740d249-9918-4649-a9c7-a0eb82bb528d" />
+
+---
+### 4.Aggregate Functions and Grouping
 
