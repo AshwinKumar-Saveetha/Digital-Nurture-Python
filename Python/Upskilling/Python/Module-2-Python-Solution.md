@@ -208,12 +208,9 @@ Complete the **Basic Input** exercise as described in the module.
 - Structured Programming
 
 ### Python Code
-```python
-# Paste your solution here
-```
 
-### Output Screenshot
-![Exercise 9](Outputs/ex09.png)
+<img width="475" height="222" alt="image" src="https://github.com/user-attachments/assets/2a120238-acf1-4625-b0f7-8b110348b35b" />
+
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **Basic Input** through hands-on implementation.
