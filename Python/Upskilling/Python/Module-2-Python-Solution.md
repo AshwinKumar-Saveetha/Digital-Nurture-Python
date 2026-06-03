@@ -10,13 +10,10 @@ Complete the **Simple Hello World** exercise as described in the module.
 - Functions and Validation
 - Structured Programming
 
-### Python Code
-```python
-# Paste your solution here
-```
+### Python Code and Output:
 
-### Output Screenshot
-![Exercise 1](Outputs/ex01.png)
+![Exercise 1](<img width="903" height="720" alt="image" src="https://github.com/user-attachments/assets/d70c889d-355d-4ce2-a705-109cfecc661d" />
+)
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **Simple Hello World** through hands-on implementation.
@@ -38,13 +35,9 @@ Complete the **Jupyter Notebook** exercise as described in the module.
 - Functions and Validation
 - Structured Programming
 
-### Python Code
-```python
-# Paste your solution here
-```
-
-### Output Screenshot
-![Exercise 2](Outputs/ex02.png)
+### Python Code and Output:
+![Exercise 2](<img width="1045" height="491" alt="image" src="https://github.com/user-attachments/assets/9f6ae591-befb-4a01-bbe8-4f9b8a5e3bb8" />
+)
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **Jupyter Notebook** through hands-on implementation.
@@ -66,13 +59,9 @@ Complete the **VS Code Setup** exercise as described in the module.
 - Functions and Validation
 - Structured Programming
 
-### Python Code
-```python
-# Paste your solution here
-```
-
-### Output Screenshot
-![Exercise 3](Outputs/ex03.png)
+### Python Code and Output:
+![Exercise 3](<img width="1037" height="784" alt="image" src="https://github.com/user-attachments/assets/648451e2-df27-4658-9635-1ce8c71b2ece" />
+)
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **VS Code Setup** through hands-on implementation.
@@ -94,13 +83,11 @@ Complete the **Float Precision** exercise as described in the module.
 - Functions and Validation
 - Structured Programming
 
-### Python Code
-```python
-# Paste your solution here
-```
+### Python Code and Output:
 
-### Output Screenshot
-![Exercise 4](Outputs/ex04.png)
+<img width="1027" height="325" alt="Screenshot 2026-06-03 204540" src="https://github.com/user-attachments/assets/787f31fe-b91c-48cb-a7a9-b119001c399e" />
+
+<img width="1128" height="336" alt="Screenshot 2026-06-03 204317" src="https://github.com/user-attachments/assets/06cb3dc2-faac-4fb4-a6a5-33336212c348" />
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **Float Precision** through hands-on implementation.
