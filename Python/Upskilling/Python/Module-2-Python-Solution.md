@@ -12,8 +12,8 @@ Complete the **Simple Hello World** exercise as described in the module.
 
 ### Python Code and Output:
 
-![Exercise 1](<img width="903" height="720" alt="image" src="https://github.com/user-attachments/assets/d70c889d-355d-4ce2-a705-109cfecc661d" />
-)
+<img width="903" height="720" alt="image" src="https://github.com/user-attachments/assets/d70c889d-355d-4ce2-a705-109cfecc661d" />
+
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **Simple Hello World** through hands-on implementation.
@@ -36,8 +36,8 @@ Complete the **Jupyter Notebook** exercise as described in the module.
 - Structured Programming
 
 ### Python Code and Output:
-![Exercise 2](<img width="1045" height="491" alt="image" src="https://github.com/user-attachments/assets/9f6ae591-befb-4a01-bbe8-4f9b8a5e3bb8" />
-)
+<img width="1045" height="491" alt="image" src="https://github.com/user-attachments/assets/9f6ae591-befb-4a01-bbe8-4f9b8a5e3bb8" />
+
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **Jupyter Notebook** through hands-on implementation.
@@ -60,8 +60,8 @@ Complete the **VS Code Setup** exercise as described in the module.
 - Structured Programming
 
 ### Python Code and Output:
-![Exercise 3](<img width="1037" height="784" alt="image" src="https://github.com/user-attachments/assets/648451e2-df27-4658-9635-1ce8c71b2ece" />
-)
+<img width="1037" height="784" alt="image" src="https://github.com/user-attachments/assets/648451e2-df27-4658-9635-1ce8c71b2ece" />
+
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **VS Code Setup** through hands-on implementation.
