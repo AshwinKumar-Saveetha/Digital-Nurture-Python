@@ -1,7 +1,7 @@
 # Self-Learning (Open-source links): Python
 
 | Topics | Sub-Topics | Learning Reference Links | Feedback / Status |
-|------------|---------------|------------------|--------------|
+|------------|---------------|------------------|------------------|
 | 1.Python Basics | Installing Python<br>Running Python Programs<br>Text Editors and IDEs | https://realpython.com/installing-python/<br>https://realpython.com/run-python-scripts/<br>https://realpython.com/python-ides-code-editors-guide/ | ✅ Completed and installed |
 | 2.Python Fundamentals | Data Types<br>Variables<br>Mathematical Operations<br>User Input<br>Control Flow<br>Whitespace Importance<br>Organizing Programs | https://www.eureka.co/blog/variables-and-data-types-in-python/<br>https://www.geeksforgeeks.org/taking-input-in-python/<br>https://guicommits.com/organize-python-code-like-a-pro/ | ⬜ Not Started |
 | 3.Advanced Python | Modules<br>Functions<br>Built-in Functions<br>File I/O<br>Error Handling | https://www.geeksforgeeks.org/python-modules/<br>https://www.geeksforgeeks.org/python-functions/<br>https://www.w3schools.com/python/python_ref_functions.asp<br>https://www.geeksforgeeks.org/file-handling-python/<br>https://www.geeksforgeeks.org/python-exception-handling/ | ⬜ Not Started |
