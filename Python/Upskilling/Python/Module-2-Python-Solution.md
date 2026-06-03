@@ -109,13 +109,9 @@ Complete the **Multiple Assignment** exercise as described in the module.
 - Functions and Validation
 - Structured Programming
 
-### Python Code
-```python
-# Paste your solution here
-```
+### Python Code and Output:
 
-### Output Screenshot
-![Exercise 5](Outputs/ex05.png)
+<img width="658" height="288" alt="image" src="https://github.com/user-attachments/assets/509c7061-921a-4a5d-95a8-a8f1bc760dca" />
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **Multiple Assignment** through hands-on implementation.
