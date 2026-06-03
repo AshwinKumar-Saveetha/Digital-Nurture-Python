@@ -111,7 +111,8 @@ Complete the **Multiple Assignment** exercise as described in the module.
 
 ### Python Code and Output:
 
-<img width="658" height="288" alt="image" src="https://github.com/user-attachments/assets/509c7061-921a-4a5d-95a8-a8f1bc760dca" />
+<img width="729" height="390" alt="image" src="https://github.com/user-attachments/assets/efb249c4-2b56-4a0b-b650-e6edf0cafd1f" />
+
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **Multiple Assignment** through hands-on implementation.
@@ -133,13 +134,9 @@ Complete the **Modulo Operator** exercise as described in the module.
 - Functions and Validation
 - Structured Programming
 
-### Python Code
-```python
-# Paste your solution here
-```
+### Python Code and Ouput:
 
-### Output Screenshot
-![Exercise 6](Outputs/ex06.png)
+<img width="962" height="409" alt="image" src="https://github.com/user-attachments/assets/3f68a1f6-f6eb-428b-bf6d-c25eefb2ea28" />
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **Modulo Operator** through hands-on implementation.
@@ -161,13 +158,10 @@ Complete the **Floor Division** exercise as described in the module.
 - Functions and Validation
 - Structured Programming
 
-### Python Code
-```python
-# Paste your solution here
-```
+### Python Code and Output:
 
-### Output Screenshot
-![Exercise 7](Outputs/ex07.png)
+<img width="1576" height="546" alt="image" src="https://github.com/user-attachments/assets/dbaa13d2-04f6-4b26-b5a0-f3d402a1068a" />
+
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **Floor Division** through hands-on implementation.
@@ -189,13 +183,9 @@ Complete the **Min/Max Functions** exercise as described in the module.
 - Functions and Validation
 - Structured Programming
 
-### Python Code
-```python
-# Paste your solution here
-```
+### Python Code and Ouput:
 
-### Output Screenshot
-![Exercise 8](Outputs/ex08.png)
+<img width="713" height="285" alt="image" src="https://github.com/user-attachments/assets/11a53b39-4110-4599-af92-7df4c8b70678" />
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **Min/Max Functions** through hands-on implementation.
