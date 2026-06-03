@@ -6,7 +6,8 @@
 |    |                                | [w3schools](https://www.w3schools.com/mysql/mysql_intro.asp) |✅ Completed — practiced|
 | 2.Data Retrieval with SELECT Statement  | Basic SELECT, column selection, aliases                                     | [geeksforgeeks](https://www.geeksforgeeks.org/sql-select-statement/) | ✅ Completed — practiced and added screen shots |
 | 3.Filtering and Sorting Data            | WHERE clause, ORDER BY, DISTINCT                                            | [sqlshack](https://www.sqlshack.com/sql-where-clause/) | ✅ Completed — practiced and added screen shots |
-| 4.Aggregate Functions and Grouping      | COUNT, SUM, AVG, MIN, MAX, GROUP BY, HAVING                                 | [w3schools](https://www.w3schools.com/sql/sql_groupby.asp) | ⬜ Pending |
+| 4.Aggregate Functions and Grouping      | COUNT, SUM, AVG, MIN, MAX, GROUP BY, HAVING                                 | [geeksforgeeks](https://www.geeksforgeeks.org/mysql/mysql-aggregate-function/)
+[w3schools](https://www.w3schools.com/sql/sql_groupby.asp) | ⬜ Pending |
 | 5.Joins and Subqueries                  | INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, nested queries                | [geeksforgeeks](https://www.geeksforgeeks.org/sql-join/) | ⬜ Pending |
 | 6.Data Modification                     | INSERT, UPDATE, DELETE                                                      | [w3schools](https://www.w3schools.com/sql/sql_insert.asp) | ⬜ Pending |
 | 7.Creating and Modifying Tables         | CREATE TABLE, ALTER TABLE, DROP TABLE                                       | [dwbi](https://dwbi.org/sql/ddl-commands-in-sql) | ⬜ Pending |
@@ -43,4 +44,12 @@
 
 ---
 ### 4.Aggregate Functions and Grouping
+
+<img width="912" height="569" alt="image" src="https://github.com/user-attachments/assets/37c4871e-ef38-4b85-a993-c94f8301bb72" />
+
+<img width="670" height="559" alt="image" src="https://github.com/user-attachments/assets/67c0ca7b-d6d8-4133-87f3-ec7d103383b2" />
+
+### 5.Joins and Subqueries:
+
+
 
