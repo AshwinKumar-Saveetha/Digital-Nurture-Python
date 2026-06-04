@@ -9,9 +9,9 @@
 | 4.Aggregate Functions and Grouping      | COUNT, SUM, AVG, MIN, MAX, GROUP BY, HAVING                                 | [geeksforgeeks](https://www.geeksforgeeks.org/mysql/mysql-aggregate-function/) | ✅ Completed — practiced and added screen shots|
 |||[w3schools](https://www.w3schools.com/sql/sql_groupby.asp)|✅ Completed — practiced and added screen shots|
 | 5.Joins and Subqueries                  | INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, nested queries                | [https://www.geeksforgeeks.org/mysql-subquery/](https://www.geeksforgeeks.org/mysql-subquery/) <br> [https://www.geeksforgeeks.org/mysql-join-1/](https://www.geeksforgeeks.org/mysql-join-1/) | ✅ Completed — practiced and added screen shots |
-| 6.Data Modification                     | INSERT, UPDATE, DELETE                                                      | [w3schools](https://www.w3schools.com/sql/sql_insert.asp) | ⬜ Pending |
-| 7.Creating and Modifying Tables         | CREATE TABLE, ALTER TABLE, DROP TABLE                                       | [dwbi](https://dwbi.org/sql/ddl-commands-in-sql) | ⬜ Pending |
-| 8.Indexes and Constraints               | PRIMARY KEY, FOREIGN KEY, UNIQUE, CHECK, INDEX                              | [geeksforgeeks](https://www.geeksforgeeks.org/sql-constraints/) | ⬜ Pending |
+| 6.Data Modification                     | INSERT, UPDATE, DELETE                                                      | [https://www.geeksforgeeks.org/sql/sql-ddl-dql-dml-dcl-tcl-commands/](https://www.geeksforgeeks.org/sql/sql-ddl-dql-dml-dcl-tcl-commands/) | ✅ Completed |
+| 7.Creating and Modifying Tables         | CREATE TABLE, ALTER TABLE, DROP TABLE                                       | [dwbi](https://dwbi.org/sql/ddl-commands-in-sql) | ✅ Completed |
+| 8.Indexes and Constraints               | PRIMARY KEY, FOREIGN KEY, UNIQUE, CHECK, INDEX                              | [geeksforgeeks](https://www.geeksforgeeks.org/sql-constraints/) | ✅ Completed |
 
 ---
 ## Practices:
