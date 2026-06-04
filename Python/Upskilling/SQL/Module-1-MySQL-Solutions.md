@@ -1,4 +1,5 @@
-[Self-Learning Reference: SQL-Self-Learning.md](https://github.com/AshwinKumar-Saveetha/Digital-Nurture-Python/blob/main/Python/Upskilling/SQL/SQL-Self-Learning.md)
+> ℹ️ I completed self-learning before starting this journal:  
+> [SQL-Self-Learning.md](https://github.com/AshwinKumar-Saveetha/Digital-Nurture-Python/blob/main/Python/Upskilling/SQL/SQL-Self-Learning.md)
 
 # ANSI SQL Using MySQL - Practical Learning Journal
 
