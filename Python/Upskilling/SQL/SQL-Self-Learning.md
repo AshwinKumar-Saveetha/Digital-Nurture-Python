@@ -51,5 +51,13 @@
 
 ### 5.Joins and Subqueries:
 
+<img width="1376" height="466" alt="image" src="https://github.com/user-attachments/assets/7fa54512-1f07-4319-8910-7e1316309178" />
 
+<img width="790" height="758" alt="image" src="https://github.com/user-attachments/assets/cafaee97-dcc2-44be-a718-624156e7b0d2" />
+
+<img width="934" height="380" alt="image" src="https://github.com/user-attachments/assets/9f8bc0d5-9776-454b-a91f-9afd9185534a" />
+
+<img width="755" height="402" alt="image" src="https://github.com/user-attachments/assets/5c57d1fe-5de0-4177-a273-c69ff0a83143" />
+
+<img width="1286" height="323" alt="image" src="https://github.com/user-attachments/assets/5045f9c5-4fd6-4c39-835b-1c011a6c42f4" />
 
