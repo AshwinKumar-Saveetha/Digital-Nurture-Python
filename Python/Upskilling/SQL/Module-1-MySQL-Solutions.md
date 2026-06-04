@@ -1,3 +1,5 @@
+[Self-Learning Reference: SQL-Self-Learning.md](https://github.com/AshwinKumar-Saveetha/Digital-Nurture-Python/blob/main/Python/Upskilling/SQL/SQL-Self-Learning.md)
+
 # ANSI SQL Using MySQL - Practical Learning Journal
 
 ## Exercise 1: User Upcoming Events
