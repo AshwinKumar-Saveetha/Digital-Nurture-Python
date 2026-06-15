@@ -334,13 +334,10 @@ Complete the **If-Elif-Else** exercise as described in the module.
 - Functions and Validation
 - Structured Programming
 
-### Python Code
-```python
-# Paste your solution here
-```
+### Python Code and Output:
 
-### Output Screenshot
-![Exercise 14](Outputs/ex14.png)
+<img width="1428" height="544" alt="image" src="https://github.com/user-attachments/assets/e17c0f5f-9ff6-4209-bd6a-d0ac8c0d2595" />
+
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **If-Elif-Else** through hands-on implementation.
@@ -362,13 +359,10 @@ Complete the **Nested If** exercise as described in the module.
 - Functions and Validation
 - Structured Programming
 
-### Python Code
-```python
-# Paste your solution here
-```
+### Python Code and Output:
 
-### Output Screenshot
-![Exercise 15](Outputs/ex15.png)
+<img width="878" height="548" alt="image" src="https://github.com/user-attachments/assets/cef620ae-3c91-46d5-b9df-96b071322c69" />
+
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **Nested If** through hands-on implementation.
@@ -390,13 +384,9 @@ Complete the **For Loop Basics** exercise as described in the module.
 - Functions and Validation
 - Structured Programming
 
-### Python Code
-```python
-# Paste your solution here
-```
+### Python Code and Output:
 
-### Output Screenshot
-![Exercise 16](Outputs/ex16.png)
+<img width="852" height="509" alt="image" src="https://github.com/user-attachments/assets/238b90a8-db26-434c-b071-31dae0a6fe15" />
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **For Loop Basics** through hands-on implementation.
