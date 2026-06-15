@@ -1,3 +1,5 @@
+> ℹ️ I completed self-learning before starting this journal:  
+> [Py-Self-Learning.md](https://github.com/AshwinKumar-Saveetha/Digital-Nurture-Python/blob/main/Python/Upskilling/Python/Py-Self-Learning.md)
 # Python 3 - Practical Learning Journal
 
 ## Exercise 1: Simple Hello World
