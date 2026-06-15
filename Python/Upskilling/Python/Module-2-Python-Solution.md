@@ -234,13 +234,10 @@ Complete the **Numeric Input** exercise as described in the module.
 - Functions and Validation
 - Structured Programming
 
-### Python Code
-```python
-# Paste your solution here
-```
+### Python Code and Output
 
-### Output Screenshot
-![Exercise 10](Outputs/ex10.png)
+<img width="659" height="206" alt="Screenshot 2026-06-03 214419" src="https://github.com/user-attachments/assets/990097ba-4421-4d45-b0df-5415d661ddc3" />
+
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **Numeric Input** through hands-on implementation.
@@ -262,13 +259,10 @@ Complete the **Float Input** exercise as described in the module.
 - Functions and Validation
 - Structured Programming
 
-### Python Code
-```python
-# Paste your solution here
-```
+### Python Code and Output:
 
-### Output Screenshot
-![Exercise 11](Outputs/ex11.png)
+<img width="659" height="206" alt="Screenshot 2026-06-03 214419" src="https://github.com/user-attachments/assets/ebb2516b-a069-4570-88ee-178c853a7a65" />
+
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **Float Input** through hands-on implementation.
@@ -290,13 +284,10 @@ Complete the **Simple If** exercise as described in the module.
 - Functions and Validation
 - Structured Programming
 
-### Python Code
-```python
-# Paste your solution here
-```
+### Python Code and Output:
 
-### Output Screenshot
-![Exercise 12](Outputs/ex12.png)
+<img width="566" height="265" alt="Screenshot 2026-06-03 215003" src="https://github.com/user-attachments/assets/9b4a7fb7-ebcc-45c7-99f7-56259c21b81e" />
+
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **Simple If** through hands-on implementation.
@@ -318,13 +309,10 @@ Complete the **If-Else** exercise as described in the module.
 - Functions and Validation
 - Structured Programming
 
-### Python Code
-```python
-# Paste your solution here
-```
+### Python Code and Output;
 
-### Output Screenshot
-![Exercise 13](Outputs/ex13.png)
+<img width="566" height="265" alt="Screenshot 2026-06-03 215003" src="https://github.com/user-attachments/assets/273ef662-0ab0-45f7-87af-6e3fd043db83" />
+
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **If-Else** through hands-on implementation.
