@@ -481,13 +481,10 @@ Complete the **Pass Statement** exercise as described in the module.
 - Functions and Validation
 - Structured Programming
 
-### Python Code
-```python
-# Paste your solution here
-```
+### Python Code and Output:
 
-### Output Screenshot
-![Exercise 20](Outputs/ex20.png)
+<img width="862" height="452" alt="image" src="https://github.com/user-attachments/assets/76fd5cde-e688-48b4-963a-3c5f2f8c5ef9" />
+
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **Pass Statement** through hands-on implementation.
