@@ -408,13 +408,9 @@ Complete the **While Loop** exercise as described in the module.
 - Functions and Validation
 - Structured Programming
 
-### Python Code
-```python
-# Paste your solution here
-```
+### Python Code and Output:
 
-### Output Screenshot
-![Exercise 17](Outputs/ex17.png)
+<img width="823" height="509" alt="image" src="https://github.com/user-attachments/assets/9c98ffff-b0d8-4319-bd1f-957f80f5d452" />
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **While Loop** through hands-on implementation.
@@ -436,13 +432,9 @@ Complete the **Break Statement** exercise as described in the module.
 - Functions and Validation
 - Structured Programming
 
-### Python Code
-```python
-# Paste your solution here
-```
+### Python Code and Output:
 
-### Output Screenshot
-![Exercise 18](Outputs/ex18.png)
+<img width="837" height="599" alt="image" src="https://github.com/user-attachments/assets/3ae303a2-61a9-48d4-88be-04ef8d3104b7" />
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **Break Statement** through hands-on implementation.
@@ -464,13 +456,10 @@ Complete the **Continue Statement** exercise as described in the module.
 - Functions and Validation
 - Structured Programming
 
-### Python Code
-```python
-# Paste your solution here
-```
+### Python Code and Output:
 
-### Output Screenshot
-![Exercise 19](Outputs/ex19.png)
+<img width="844" height="534" alt="image" src="https://github.com/user-attachments/assets/0a958843-efd4-4dbf-a30b-9a59afb309fc" />
+
 
 ### Result Analysis
 This exercise helped me understand and practice the concept of **Continue Statement** through hands-on implementation.
